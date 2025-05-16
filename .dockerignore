@@ -1,0 +1,8 @@
+# no permitimos ver archivos pytho compilados
+
+from flask import Flask
+_pycache_/
+*.pyc
+.git
+.gitignore
+README.md
